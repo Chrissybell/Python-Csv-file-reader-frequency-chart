@@ -1,0 +1,8 @@
+Coffee,Price
+Vanilla,3
+Latte,4
+Black,2
+PumpkinSpice,3
+Regular,3
+Coconut,3
+Hazelnut,3
